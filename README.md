@@ -5,4 +5,4 @@ AFC will include: Buffalo Bills, Miami Dolphins, New England Patriots, New York 
 
 NFC will include: Dallas Cowboys, New York Giants, Philadelphia Eagles, Washington Redskins, Chicago Bears, Detroit Lions, Green Bay Packers, Minnesota Vikings, Atlanta Falcons, Carolina Panthers, New Orleans Saints, Tampa Bay Buccaneers, Arizona Cardinals, Los Angeles Rams, San Francisco 49ers, Seattle Seahawks
 
-
+Example of the data table can be seen above.
